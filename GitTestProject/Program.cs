@@ -6,7 +6,7 @@ namespace GitTestProject
     {
         static void Main(string[] args)
         {            
-            Console.WriteLine("FirstBranch: Hello World! For revert");
+            Console.WriteLine("FirstBranch: Hello World!");
         }
     }
 }
